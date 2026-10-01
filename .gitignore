@@ -1,0 +1,16 @@
+# dependencies
+node_modules/
+
+# next.js
+.next/
+out/
+next-env.d.ts
+
+# misc
+*.log
+.DS_Store
+*.tsbuildinfo
+.env*.local
+
+# verification scratch (kept: research/shots/*.png, research/*.md, research/*.json)
+research/.tmp/
