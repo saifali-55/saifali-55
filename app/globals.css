@@ -1,4 +1,6 @@
 @import "tailwindcss";
+/* binary assets must not be scanned for class candidates */
+@source not "../public";
 
 /* ──────────────────────────────────────────────────────────────────────────
    Salamtak design tokens

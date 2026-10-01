@@ -21,20 +21,22 @@ const doors = [
   { href: "#providers", t: "صيدلية", d: "وصفات قريبة منك، وأنت تحدد السعر", Icon: IconPharmacy },
 ];
 
-export default function HeroC() {
+export default function HeroC({ showBrand = true }: { showBrand?: boolean }) {
   return (
     <section
       className={`${readex.variable} ${s.hero} relative isolate overflow-hidden text-ink`}
       aria-labelledby="hero-c-title"
     >
-      <div className="wrap relative pt-7 pb-16 md:pt-9 md:pb-20">
-        {/* eyebrow */}
-        <div className="flex items-center justify-between text-sm text-ink-2">
-          <span className="font-display text-xl font-semibold text-ink">سلامتك</span>
-          <span>بغداد · تجربة مبكرة</span>
-        </div>
+      <div className={`wrap relative pb-16 md:pb-20 ${showBrand ? "pt-7 md:pt-9" : "pt-4 md:pt-6"}`}>
+        {/* eyebrow (hidden when the hero sits under the site header) */}
+        {showBrand && (
+          <div className="flex items-center justify-between text-sm text-ink-2">
+            <span className="font-display text-xl font-semibold text-ink">سلامتك</span>
+            <span>بغداد · تجربة مبكرة</span>
+          </div>
+        )}
 
-        <div className="mt-12 grid items-center gap-14 md:mt-16 md:grid-cols-12 md:gap-8">
+        <div className={`grid items-center gap-14 md:grid-cols-12 md:gap-8 ${showBrand ? "mt-12 md:mt-16" : "mt-8 md:mt-12"}`}>
           {/* copy */}
           <div className="md:col-span-8">
             <h1

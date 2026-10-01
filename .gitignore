@@ -14,3 +14,6 @@ next-env.d.ts
 
 # verification scratch (kept: research/shots/*.png, research/*.md, research/*.json)
 research/.tmp/
+
+# local early-access sign-ups (pre-launch placeholder store, contains phone numbers)
+data/
