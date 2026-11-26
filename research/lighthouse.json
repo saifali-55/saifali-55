@@ -1,0 +1,91 @@
+{
+  "generated": "2026-10-01T07:27:12.587Z",
+  "lighthouse": "12.x",
+  "note": "Run against `next start` on localhost inside a sandbox; performance numbers are indicative only.",
+  "results": {
+    "hero-a-mobile": {
+      "accessibility": 100,
+      "performance": 93,
+      "bestPractices": 100,
+      "seo": 63,
+      "lcp": "3.3 s",
+      "cls": "0",
+      "tbt": "50 ms",
+      "a11yFailing": [],
+      "bpFailing": [],
+      "seoFailing": [
+        "is-crawlable (0)"
+      ]
+    },
+    "hero-a-desktop": {
+      "accessibility": 100,
+      "performance": 100,
+      "bestPractices": 100,
+      "seo": 63,
+      "lcp": "0.8 s",
+      "cls": "0",
+      "tbt": "10 ms",
+      "a11yFailing": [],
+      "bpFailing": [],
+      "seoFailing": [
+        "is-crawlable (0)"
+      ]
+    },
+    "hero-b-mobile": {
+      "accessibility": 100,
+      "performance": 89,
+      "bestPractices": 100,
+      "seo": 63,
+      "lcp": "3.8 s",
+      "cls": "0",
+      "tbt": "50 ms",
+      "a11yFailing": [],
+      "bpFailing": [],
+      "seoFailing": [
+        "is-crawlable (0)"
+      ]
+    },
+    "hero-b-desktop": {
+      "accessibility": 100,
+      "performance": 100,
+      "bestPractices": 100,
+      "seo": 63,
+      "lcp": "0.8 s",
+      "cls": "0",
+      "tbt": "0 ms",
+      "a11yFailing": [],
+      "bpFailing": [],
+      "seoFailing": [
+        "is-crawlable (0)"
+      ]
+    },
+    "hero-c-mobile": {
+      "accessibility": 100,
+      "performance": 88,
+      "bestPractices": 100,
+      "seo": 63,
+      "lcp": "3.8 s",
+      "cls": "0",
+      "tbt": "80 ms",
+      "a11yFailing": [],
+      "bpFailing": [],
+      "seoFailing": [
+        "is-crawlable (0)"
+      ]
+    },
+    "hero-c-desktop": {
+      "accessibility": 100,
+      "performance": 100,
+      "bestPractices": 100,
+      "seo": 63,
+      "lcp": "0.8 s",
+      "cls": "0",
+      "tbt": "0 ms",
+      "a11yFailing": [],
+      "bpFailing": [],
+      "seoFailing": [
+        "is-crawlable (0)"
+      ]
+    }
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "a": {
+    "desktop-light": {
+      "dir": "rtl",
+      "lang": "ar",
+      "h1Count": 1,
+      "h1HasPhrase": true,
+      "h1Text": "احجز طبيبك في بغداد، وخلّي الصيدليات تتنافس على وصفتك.",
+      "overflow": false,
+      "scrollW": 1440,
+      "clientW": 1440,
+      "offenders": [],
+      "ctaJoin": {
+        "present": true,
+        "visible": true,
+        "focusable": true,
+        "text": "سجّل للتجربة المبكرة"
+      },
+      "ctaProviders": {
+        "present": true,
+        "visible": true,
+        "focusable": true,
+        "text": "أنا طبيب أو صيدلية"
+      },
+      "fontsLoaded": [
+        "IBM Plex Sans Arabic",
+        "Markazi Text"
+      ],
+      "consoleErrors": [],
+      "screenshot": "research/shots/hero-a-desktop-light.png"
+    },
+    "desktop-dark": {
+      "dir": "rtl",
+      "lang": "ar",
+      "h1Count": 1,
+      "h1HasPhrase": true,
+      "h1Text": "احجز طبيبك في بغداد، وخلّي الصيدليات تتنافس على وصفتك.",
+      "overflow": false,
+      "scrollW": 1440,
+      "clientW": 1440,
+      "offenders": [],
+      "ctaJoin": {
+        "present": true,
+        "visible": true,
+        "focusable": true,
+        "text": "سجّل للتجربة المبكرة"
+      },
+      "ctaProviders": {
+        "present": true,
+        "visible": true,
+        "focusable": true,
+        "text": "أنا طبيب أو صيدلية"
+      },
+      "fontsLoaded": [
+        "IBM Plex Sans Arabic",
+        "Markazi Text"
+      ],
+      "consoleErrors": [],
+      "screenshot": "research/shots/hero-a-desktop-dark.png"
+    },
+    "mobile": {
+      "dir": "rtl",
+      "lang": "ar",
+      "h1Count": 1,
+      "h1HasPhrase": true,
+      "h1Text": "احجز طبيبك في بغداد، وخلّي الصيدليات تتنافس على وصفتك.",
+      "overflow": false,
+      "scrollW": 390,
+      "clientW": 390,
+      "offenders": [],
+      "ctaJoin": {
+        "present": true,
+        "visible": true,
+        "focusable": true,
+        "text": "سجّل للتجربة المبكرة"
+      },
+      "ctaProviders": {
+        "present": true,
+        "visible": true,
+        "focusable": true,
+        "text": "أنا طبيب أو صيدلية"
+      },
+      "fontsLoaded": [
+        "IBM Plex Sans Arabic",
+        "Markazi Text"
+      ],
+      "consoleErrors": [],
+      "screenshot": "research/shots/hero-a-mobile.png"
+    }
+  },
+  "b": {
+    "desktop-light": {
+      "dir": "rtl",
+      "lang": "ar",
+      "h1Count": 1,
+      "h1HasPhrase": true,
+      "h1Text": "احجز طبيبك في بغداد.وصفتك بسعر تختاره أنت.",
+      "overflow": false,
+      "scrollW": 1440,
+      "clientW": 1440,
+      "offenders": [],
+      "ctaJoin": {
+        "present": true,
+        "visible": true,
+        "focusable": true,
+        "text": "سجّل للتجربة المبكرة"
+      },
+      "ctaProviders": {
+        "present": true,
+        "visible": true,
+        "focusable": true,
+        "text": "أنا طبيب أو صيدلية"
+      },
+      "fontsLoaded": [
+        "IBM Plex Sans Arabic",
+        "Readex Pro"
+      ],
+      "consoleErrors": [],
+      "screenshot": "research/shots/hero-b-desktop-light.png"
+    },
+    "desktop-dark": {
+      "dir": "rtl",
+      "lang": "ar",
+      "h1Count": 1,
+      "h1HasPhrase": true,
+      "h1Text": "احجز طبيبك في بغداد.وصفتك بسعر تختاره أنت.",
+      "overflow": false,
+      "scrollW": 1440,
+      "clientW": 1440,
+      "offenders": [],
+      "ctaJoin": {
+        "present": true,
+        "visible": true,
+        "focusable": true,
+        "text": "سجّل للتجربة المبكرة"
+      },
+      "ctaProviders": {
+        "present": true,
+        "visible": true,
+        "focusable": true,
+        "text": "أنا طبيب أو صيدلية"
+      },
+      "fontsLoaded": [
+        "IBM Plex Sans Arabic",
+        "Readex Pro"
+      ],
+      "consoleErrors": [],
+      "screenshot": "research/shots/hero-b-desktop-dark.png"
+    },
+    "mobile": {
+      "dir": "rtl",
+      "lang": "ar",
+      "h1Count": 1,
+      "h1HasPhrase": true,
+      "h1Text": "احجز طبيبك في بغداد.وصفتك بسعر تختاره أنت.",
+      "overflow": false,
+      "scrollW": 390,
+      "clientW": 390,
+      "offenders": [],
+      "ctaJoin": {
+        "present": true,
+        "visible": true,
+        "focusable": true,
+        "text": "سجّل للتجربة المبكرة"
+      },
+      "ctaProviders": {
+        "present": true,
+        "visible": true,
+        "focusable": true,
+        "text": "أنا طبيب أو صيدلية"
+      },
+      "fontsLoaded": [
+        "IBM Plex Sans Arabic",
+        "Readex Pro"
+      ],
+      "consoleErrors": [],
+      "screenshot": "research/shots/hero-b-mobile.png"
+    }
+  },
+  "c": {
+    "desktop-light": {
+      "dir": "rtl",
+      "lang": "ar",
+      "h1Count": 1,
+      "h1HasPhrase": true,
+      "h1Text": "احجز طبيبك في بغداد،بخطوات أهدأ.",
+      "overflow": false,
+      "scrollW": 1440,
+      "clientW": 1440,
+      "offenders": [],
+      "ctaJoin": {
+        "present": true,
+        "visible": true,
+        "focusable": true,
+        "text": "سجّل للتجربة المبكرة"
+      },
+      "ctaProviders": {
+        "present": true,
+        "visible": true,
+        "focusable": true,
+        "text": "أنا طبيب أو صيدلية"
+      },
+      "fontsLoaded": [
+        "IBM Plex Sans Arabic",
+        "Readex Pro"
+      ],
+      "consoleErrors": [],
+      "screenshot": "research/shots/hero-c-desktop-light.png"
+    },
+    "desktop-dark": {
+      "dir": "rtl",
+      "lang": "ar",
+      "h1Count": 1,
+      "h1HasPhrase": true,
+      "h1Text": "احجز طبيبك في بغداد،بخطوات أهدأ.",
+      "overflow": false,
+      "scrollW": 1440,
+      "clientW": 1440,
+      "offenders": [],
+      "ctaJoin": {
+        "present": true,
+        "visible": true,
+        "focusable": true,
+        "text": "سجّل للتجربة المبكرة"
+      },
+      "ctaProviders": {
+        "present": true,
+        "visible": true,
+        "focusable": true,
+        "text": "أنا طبيب أو صيدلية"
+      },
+      "fontsLoaded": [
+        "IBM Plex Sans Arabic",
+        "Readex Pro"
+      ],
+      "consoleErrors": [],
+      "screenshot": "research/shots/hero-c-desktop-dark.png"
+    },
+    "mobile": {
+      "dir": "rtl",
+      "lang": "ar",
+      "h1Count": 1,
+      "h1HasPhrase": true,
+      "h1Text": "احجز طبيبك في بغداد،بخطوات أهدأ.",
+      "overflow": false,
+      "scrollW": 390,
+      "clientW": 390,
+      "offenders": [],
+      "ctaJoin": {
+        "present": true,
+        "visible": true,
+        "focusable": true,
+        "text": "سجّل للتجربة المبكرة"
+      },
+      "ctaProviders": {
+        "present": true,
+        "visible": true,
+        "focusable": true,
+        "text": "أنا طبيب أو صيدلية"
+      },
+      "fontsLoaded": [
+        "IBM Plex Sans Arabic",
+        "Readex Pro"
+      ],
+      "consoleErrors": [],
+      "screenshot": "research/shots/hero-c-mobile.png"
+    }
+  }
+}
